@@ -1,0 +1,5 @@
+mux32to1
+Register(checked writing in clock and not writing in clock with we disabled)
+ALu(to do check if the not function is binary or logic) 
+RegisterFile(checked,maybe add some more cases to the test bench)
+(todo for regfile implement reg0 to be always zero
